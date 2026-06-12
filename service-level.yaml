@@ -1,0 +1,5 @@
+services:
+  - name: yw-angular-styleguide
+    owner: honey-badger
+    nonServiceType: reference
+    description: "Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices."
